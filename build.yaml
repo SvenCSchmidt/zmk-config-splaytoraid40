@@ -18,4 +18,5 @@
 #
 ---
 include:
-    - board: Splaytoraid40
+    - board: sparkfun_pro_micro_rp2040
+    - shield: Splaytoraid40
